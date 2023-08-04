@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4273508019842319"
-     crossorigin="anonymous"></script>
-</head>
 <body>
 
 <h1>WElcome to the world of AJ</h1>
